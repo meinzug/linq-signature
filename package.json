@@ -1,14 +1,14 @@
 {
-  "name": "vue-signature",
+  "name": "linq-signature",
   "description": "Electronic signature",
   "version": "1.9.0",
-  "author": "Shayne Wang <1614565666@qq.com>",
+  "author": "Alex Kim <alex@paymint.co.kr>",
   "private": false,
   "license": "MIT",
   "main": "dist/vue-signature.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WangShayne/vue-signature"
+    "url": "https://github.com/meinzug/linq-signature"
   },
   "readme": "ERROR: No README data found!",
   "scripts": {
