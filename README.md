@@ -1,4 +1,4 @@
-# vue-signature
+# linq-signature
 
 > A electronic signature component by Vue.js
 
